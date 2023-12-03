@@ -45,6 +45,11 @@ RegisterNumber: 23006499
 */
 ![Code exp2](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/e01ace57-41b5-47c2-88ea-24ff25109d95)
 
+### Truth Table
+![TT 1st fig](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/075b02f5-af2c-4d27-8d74-2cc19d25c83c)
+
+![TT for EXP 2](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/e435660b-bd07-45ec-abd5-58dc0f4e3093)
+
 ## RTL realization
 
 ![RTL FOR EXP2](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/ed3eda51-1f06-45a2-a2bd-a3ad30f586dd)
