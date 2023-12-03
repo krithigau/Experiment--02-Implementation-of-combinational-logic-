@@ -52,9 +52,6 @@ RegisterNumber: 23006499
 ## Output:
 ![E2 Timing](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/99e9363e-df50-476b-9a32-d25403cfdc0f)
 
-## RTL
-![RTL FOR EXP2](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/6634d6bf-8859-4b5d-b8b1-f15eb895e8ac)
-
 ## Timing Diagram
 ![Screenshot 2023-12-03 201025](https://github.com/krithigau/Experiment--02-Implementation-of-combinational-logic-/assets/150319401/9ca75a1d-e56d-4b44-a2a0-613eecf63dc1)
 
